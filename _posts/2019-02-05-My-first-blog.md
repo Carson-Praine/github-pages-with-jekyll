@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to my blog!"
+title: "Welcome to limbo!"
+date: 2018-02-07
 ---
 
 # Welcome all
